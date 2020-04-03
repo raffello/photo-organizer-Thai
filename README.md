@@ -2,7 +2,7 @@
 
 <video id="video" controls="controls" preload="none" poster="Fired-Chicken-In-Ricefield.png">
 <source id="mp4" src="Fired-Chicken-In-Ricefield.mp4" type="video/mp4">
-<p><font color="red">Your browser does not support the video element.</font></p>
+Your browser does not support the video element.
 </video>
 
 #### 2019年10月18日 清迈稻田烤鸡晚餐.mp4
