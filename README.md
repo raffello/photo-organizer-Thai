@@ -4,10 +4,12 @@
 
 #### 2020年4月4日 想不到我去了这么多地方.gif
 
+<p aligen="center">
 <video id="video" controls="controls" preload="none" style="zoom:auto;">
 <source id="mp4" src="Fired-Chicken-In-Ricefield.mp4" type="video/mp4" style="zoom:auto;">
 Your browser does not support the video element.
 </video>
+</p>
 
 #### 2019年10月18日 清迈稻田烤鸡晚餐.mp4
 
