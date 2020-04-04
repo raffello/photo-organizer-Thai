@@ -1,6 +1,6 @@
 # 照片整理过程集 ——
 
-<video id="video" controls="controls" preload="none" poster="Fired-Chicken-In-Ricefield.png" style="zoom:auto;">
+<video id="video" controls="controls" preload="none" style="zoom:auto;">
 <source id="mp4" src="Fired-Chicken-In-Ricefield.mp4" type="video/mp4" style="zoom:auto;">
 Your browser does not support the video element.
 </video>
