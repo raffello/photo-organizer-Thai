@@ -2,7 +2,7 @@
 
 #### 2020年4月6日
 
-[照片整理](https://github.com/raffello/photo-organizer-Thai/projects/2) 📍⬅ click
+[照片整理](https://github.com/raffello/photo-organizer-Thai/projects/2) 📍⬅ | [3月1日](https://github.com/raffello/photo-organizer-Thai/issues/6) 🔥
 
 ***
 
