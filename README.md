@@ -1,5 +1,11 @@
 # 照片整理过程集 ——
 
+#### 2020年4月6日
+
+[照片整理](https://github.com/raffello/photo-organizer-Thai/projects/2) 📍⬅ click
+
+***
+
 ![](https://user-images.githubusercontent.com/63034623/78558389-06c6f480-7845-11ea-9547-4b306329075c.gif)
 
 #### 2020年4月4日 想不到去了那么多地方.gif
